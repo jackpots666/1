@@ -670,7 +670,7 @@
     <meta name="geo.region" content="ID" />
     <meta name="tgn.nation" content="Indonesia">
     <meta property="og:locale" content="id_ID" />
-    <link rel="amphtml" href="https://crm.utokin.com/amp/">
+    <link rel="amphtml" href="https://crm.bloringa.net/">
     <script>
       Static.COOKIE_BANNER_CAPABLE = true;
     </script>
