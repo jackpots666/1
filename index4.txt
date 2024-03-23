@@ -14,6 +14,7 @@
     <meta property="og:url" content="https://omahsrawoeng.id/wp-includes/customize/depo-25-bonus-25/" />
     <meta property="og:type" content="product" />
     <meta property="og:description" content="Situs Slot Bonus New Member 100%, Depo 100 Bonus 100 Bebas Ip To Kecil x3 x5 x10, Deposit 100 Bonus 100 Tanpa Potongan." />
+<meta name="google-site-verification" content="WsSgvjgOtUEcOW-yxlEgQYfH2seeoM7k9VUqc1yWEac" />
     <meta property="og:image" content="https://res.cloudinary.com/dfmqdx6k9/image/upload/v1711139513/makima.jpg?format=1500w" />
     <meta property="og:image:width" content="512" />
     <meta property="og:image:height" content="512" />
